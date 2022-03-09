@@ -20,7 +20,7 @@ bot_prefix = '!'
 client = commands.Bot(command_prefix=bot_prefix)
 
 
-TOKEN = 'NzkzOTYwNTIyMjUyMTU2OTM4.X-z3Ww.1g7lHdxU6WH42Pfx_W4wfOtB0bE'
+TOKEN = 'your token goes in here'
 
 ###Partie du code traitant des classes de jeu de rôle###
 
